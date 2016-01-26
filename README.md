@@ -1,6 +1,6 @@
 # ndarray-signalchart
 
-Visualizes array of signals into SVG
+Visualizes array of signals into SVG.
 
 [![Travis build status](http://img.shields.io/travis/akngs/ndarray-signalchart.svg?style=flat)](https://travis-ci.org/akngs/ndarray-signalchart)
 [![Code Climate](https://codeclimate.com/github/akngs/ndarray-signalchart/badges/gpa.svg)](https://codeclimate.com/github/akngs/ndarray-signalchart)
