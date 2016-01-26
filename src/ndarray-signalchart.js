@@ -1,0 +1,7 @@
+function signalchart() {
+}
+
+export {
+  signalchart
+};
+
